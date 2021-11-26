@@ -20,7 +20,7 @@ b = np.linalq.matrix_rank(a)
 print(b)
 ~~~
 ## Output:
-
+![](./images/ex02.png)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
